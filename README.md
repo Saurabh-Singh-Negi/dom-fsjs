@@ -180,7 +180,7 @@ search.addEventListener("mouseout", () => {
 })
 ```
 
-7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
+7. Webiste Name: [MDN Web Docs](https://developer.mo zilla.org/en-US/)
 
 ### Topics
 
@@ -198,6 +198,19 @@ search.addEventListener("mouseout", () => {
 ### Output
 
 ![Output](./images/Pic13.png)
+
+### Solution
+
+![Result](./result/task7.png)
+
+### Code
+```javascript
+const inp = document.querySelector("#hp-search-input");
+inp.value = "css";
+
+const btn = document.querySelector("#hp-search-form");
+btn.submit();
+```
 
 8. Webiste Name: [Google](https://www.google.com/)
 

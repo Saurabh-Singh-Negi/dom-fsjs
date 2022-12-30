@@ -267,6 +267,17 @@ items.innerText = langArr;
 
 ![Output](./images/Pic17.png)
 
+### Solution
+
+![Result](./result/task9.png)
+
+### Code
+```javascript
+const text = document.querySelector("h1.text-color-white");
+text.style.color = "#FF4D4D"
+text.style.fontFamily = 'monospace'
+```
+
 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
 
 ### Topics
@@ -284,6 +295,7 @@ items.innerText = langArr;
 ### Output
 
 ![Output](./images/Pic19.png)
+
 
 11. Webiste Name: [realme](https://www.realme.com/in/)
 

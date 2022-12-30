@@ -296,6 +296,21 @@ text.style.fontFamily = 'monospace'
 
 ![Output](./images/Pic19.png)
 
+### Solution
+
+![Result](./result/task10.png)
+
+### Code
+```javascript
+const text = document.querySelector(".btn-cta-big.btn-block.signup-btn.btn-cta.btn.btn-default .login-btn-text");
+console.log(text.innerText);
+text.addEventListener("mouseover", () => {
+    text.style.backgroundColor = "red";
+})
+text.addEventListener("mouseout", () => {
+    text.style.backgroundColor = "#FFB439"
+})
+```
 
 11. Webiste Name: [realme](https://www.realme.com/in/)
 

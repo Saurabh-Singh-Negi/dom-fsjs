@@ -230,6 +230,25 @@ btn.submit();
 
 ![Output](./images/Pic15.png)
 
+### Solution
+
+![Result](./result/task8.png)
+
+### Code
+```javascript
+const items = document.getElementById("SIvCob");
+let langArr = items.innerText;
+langArr = langArr.split(" ");
+
+for(let i=3 ; i<langArr.length; i++) {
+    if(i%2 != 0) {
+        langArr.splice(i, 1);
+    }
+}
+langArr = langArr.join(" ");
+items.innerText = langArr;
+```
+
 9. Webiste Name: [Code Wars](https://www.codewars.com/)
 
 ### Topics

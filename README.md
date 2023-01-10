@@ -452,6 +452,15 @@ text.style.fontSize = "80px";
 
 ![Output](./images/Pic31.png)
 
+### Solution
+
+![Result](./result/task16.png)
+
+### Code
+```javascript
+document.querySelector(".section-title_title__VEDfK").innerHTML = "Start with Scratch";
+```
+
 17. Webiste Name: [Sony](https://www.sony.co.in/)
 
 ### Topics

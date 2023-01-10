@@ -348,6 +348,18 @@ text.addEventListener("mouseout", () => {
 
 ![Output](./images/Pic23.png)
 
+### Solution
+
+![Result](./result/task12.png)
+
+### Code
+```javascript
+const container = document.querySelector(".js-repos-container a");
+container.style.backgroundColor = "blue"
+container.style.color = "white"
+container.innerText = "Create a new repository"
+```
+
 13. Webiste Name: [Hackerrank](https://www.hackerrank.com/)
 
 ### Topics

@@ -378,6 +378,16 @@ Target the top description and change “Matching developers with great companie
 
 ![Output](./images/Pic25.png)
 
+### Solution
+
+![Result](./result/task12.png)
+
+### Code
+```javascript
+const text = document.querySelector(".home22-intro-title");
+text.innerHTML = "JSBOOTCAMP"
+```
+
 14. Webiste Name: [Asus](https://www.asus.com/in/)
 
 ### Topics
@@ -395,6 +405,16 @@ Target the top description and change “Matching developers with great companie
 ### Output
 
 ![Output](./images/Pic27.png)
+
+### Solution
+
+![Result](./result/task14.png)
+
+### Code
+```javascript
+const text = document.querySelector(".HotDealsAll__Heading__2fIbe");
+text.style.fontSize = "80px";
+```
 
 15. Webiste Name: [Dell](https://www.dell.com/en-in/shop/deals/laptop-deals?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-XUDMhhVNyHXb3s1gY4ZBzORr_d9Se-buhJwy7asyUe7YdqEA11eEaAt6UEALw_wcB&gclsrc=aw.ds&nclid=BxjBlpBQsX6pjSHh-L8YYSU77EpfXRkG1AGMB5Wbeu386ykspfrPDnfx_DdFau20)
 

@@ -497,6 +497,15 @@ document.querySelector(".section-title_title__VEDfK").innerHTML = "Start with Sc
 
 ![Output](./images/Pic35.png)
 
+### Solution
+
+![Result](./result/task18.png)
+
+### Code
+```javascript
+document.querySelector(".p-f03-footer-container").style.background = "orange";
+```
+
 19. Webiste Name: [Canon](https://in.canon/)
 
 ### Topics
